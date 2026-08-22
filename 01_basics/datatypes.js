@@ -2,7 +2,7 @@
 //  alert("smarak hello") we are using nodejs
 console.log(9 + 1)
 let name= "smarak"
-let age=22
+// let age=22
 let isloggedId= true
 // null stand alone value
 // symbol
