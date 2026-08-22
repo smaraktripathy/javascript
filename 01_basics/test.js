@@ -1,1 +1,1 @@
-console.log("smarak")
+console.log("smaxrak")
