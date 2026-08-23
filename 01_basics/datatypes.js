@@ -7,5 +7,4 @@ let isloggedId= true
 // null stand alone value
 // symbol
 console.log(typeof null);//object
-console.log(typeof undefined);// undefined type
-
+console.log(typeof undefined);// undefined type hehehehe
